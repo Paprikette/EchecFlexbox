@@ -1,0 +1,16 @@
+.echec{
+  border : solid black 2px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap-reverse;
+  width: 100%;
+  height: 200px;
+}
+
+
+/*.echec :nth-child(11){ order: 1; }
+.echec :nth-child(9){ order: 2; }
+.echec :nth-child(7){ order: 3; }
+.echec :nth-child(5){ order: 4; }
+.echec :nth-child(3){ order: 5; }
+.echec :nth-child(1){ order: 6; }*/
